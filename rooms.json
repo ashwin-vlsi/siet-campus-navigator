@@ -1,0 +1,569 @@
+[
+  {
+    "name": "LH 01",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "Ground Floor",
+    "location_detail": "Academic Block - Ground Floor"
+  },
+  {
+    "name": "LH 02",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "Ground Floor",
+    "location_detail": "Academic Block - Ground Floor"
+  },
+  {
+    "name": "LH 03",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "Ground Floor",
+    "location_detail": "Academic Block - Ground Floor"
+  },
+  {
+    "name": "LH 04",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "Ground Floor",
+    "location_detail": "Academic Block - Ground Floor"
+  },
+  {
+    "name": "LH 05",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "Ground Floor",
+    "location_detail": "Academic Block - Ground Floor"
+  },
+  {
+    "name": "LH 06",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "Ground Floor",
+    "location_detail": "Academic Block - Ground Floor"
+  },
+  {
+    "name": "LH 07",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "1st Floor",
+    "location_detail": "Academic Block - 1st Floor"
+  },
+  {
+    "name": "LH 08",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "1st Floor",
+    "location_detail": "Academic Block - 1st Floor"
+  },
+  {
+    "name": "LH 09",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "1st Floor",
+    "location_detail": "Academic Block - 1st Floor"
+  },
+  {
+    "name": "LH 10",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "1st Floor",
+    "location_detail": "Academic Block - 1st Floor"
+  },
+  {
+    "name": "LH 11",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "1st Floor",
+    "location_detail": "Academic Block - 1st Floor"
+  },
+  {
+    "name": "LH 12",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "1st Floor",
+    "location_detail": "Academic Block - 1st Floor"
+  },
+  {
+    "name": "LH 13",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "2nd Floor",
+    "location_detail": "Academic Block - 2nd Floor"
+  },
+  {
+    "name": "LH 14",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "2nd Floor",
+    "location_detail": "Academic Block - 2nd Floor"
+  },
+  {
+    "name": "LH 15",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "2nd Floor",
+    "location_detail": "Academic Block - 2nd Floor"
+  },
+  {
+    "name": "LH 16",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "2nd Floor",
+    "location_detail": "Academic Block - 2nd Floor"
+  },
+  {
+    "name": "LH 17",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "3rd Floor",
+    "location_detail": "Academic Block - 3rd Floor"
+  },
+  {
+    "name": "LH 18",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "3rd Floor",
+    "location_detail": "Academic Block - 3rd Floor"
+  },
+  {
+    "name": "LH 19",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "3rd Floor",
+    "location_detail": "Academic Block - 3rd Floor"
+  },
+  {
+    "name": "LH 20",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "3rd Floor",
+    "location_detail": "Academic Block - 3rd Floor"
+  },
+  {
+    "name": "LH 21",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "3rd Floor",
+    "location_detail": "Academic Block - 3rd Floor"
+  },
+  {
+    "name": "LH 22",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "3rd Floor",
+    "location_detail": "Academic Block - 3rd Floor"
+  },
+  {
+    "name": "LH 23",
+    "type": "Exam Hall / Classroom",
+    "block": "Academic Block",
+    "floor": "3rd Floor",
+    "location_detail": "Academic Block - 3rd Floor"
+  },
+  {
+    "name": "LH 24",
+    "type": "Exam Hall / Classroom",
+    "block": "Library Wing",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above Library"
+  },
+  {
+    "name": "LH 25",
+    "type": "Exam Hall / Classroom",
+    "block": "Library Wing",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above Library"
+  },
+  {
+    "name": "LH 26",
+    "type": "Exam Hall / Classroom",
+    "block": "Library Wing",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above Library"
+  },
+  {
+    "name": "LH 27",
+    "type": "Exam Hall / Classroom",
+    "block": "Library Wing",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above Library"
+  },
+  {
+    "name": "LH 28",
+    "type": "Exam Hall / Classroom",
+    "block": "Library Wing",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above Library"
+  },
+  {
+    "name": "LH 30",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor above CIVIL Department"
+  },
+  {
+    "name": "LH 32",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 33",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 34",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 34A",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 34B",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 34C",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 35",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 36",
+    "type": "Exam Hall / Classroom",
+    "block": "Office Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor above Office"
+  },
+  {
+    "name": "LH 37",
+    "type": "Exam Hall / Classroom",
+    "block": "Office Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor above Office"
+  },
+  {
+    "name": "LH 38",
+    "type": "Exam Hall / Classroom",
+    "block": "Office Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above Office"
+  },
+  {
+    "name": "LH 39",
+    "type": "Exam Hall / Classroom",
+    "block": "Office Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above Office"
+  },
+  {
+    "name": "LH 40",
+    "type": "Exam Hall / Classroom",
+    "block": "Office Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above Office"
+  },
+  {
+    "name": "LH 41",
+    "type": "Exam Hall / Classroom",
+    "block": "Office Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above Office"
+  },
+  {
+    "name": "LH 42",
+    "type": "Exam Hall / Classroom",
+    "block": "Agri Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above AGRI Department"
+  },
+  {
+    "name": "LH 43",
+    "type": "Exam Hall / Classroom",
+    "block": "Agri Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above AGRI Department"
+  },
+  {
+    "name": "LH 44",
+    "type": "Exam Hall / Classroom",
+    "block": "Agri Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above AGRI Department"
+  },
+  {
+    "name": "LH 45",
+    "type": "Exam Hall / Classroom",
+    "block": "Agri Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above AGRI Department"
+  },
+  {
+    "name": "LH 46",
+    "type": "Exam Hall / Classroom",
+    "block": "EEE Department Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor above EEE Department"
+  },
+  {
+    "name": "LH 47",
+    "type": "Exam Hall / Classroom",
+    "block": "EEE Department Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor above EEE Department"
+  },
+  {
+    "name": "LH 48",
+    "type": "Exam Hall / Classroom",
+    "block": "EEE Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above EEE Department"
+  },
+  {
+    "name": "LH 49",
+    "type": "Exam Hall / Classroom",
+    "block": "EEE Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above EEE Department"
+  },
+  {
+    "name": "LH 50",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "Ground Floor",
+    "location_detail": "Ground floor - CIVIL Department"
+  },
+  {
+    "name": "LH 51",
+    "type": "Exam Hall / Classroom",
+    "block": "Mechanical Department Block",
+    "floor": "Ground Floor",
+    "location_detail": "Ground floor - Mechanical Department"
+  },
+  {
+    "name": "LH 52",
+    "type": "Exam Hall / Classroom",
+    "block": "Mechanical Department Block",
+    "floor": "Ground Floor",
+    "location_detail": "Ground floor - Mechanical Department"
+  },
+  {
+    "name": "LH 53",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 54",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above CIVIL Department"
+  },
+  {
+    "name": "LH 55",
+    "type": "Exam Hall / Classroom",
+    "block": "Civil Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above CIVIL Department"
+  },
+  {
+    "name": "MELH 09",
+    "type": "Exam Hall / Classroom",
+    "block": "Agri Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above AGRI Department"
+  },
+  {
+    "name": "MELH 10",
+    "type": "Exam Hall / Classroom",
+    "block": "Agri Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above AGRI Department"
+  },
+  {
+    "name": "MELH 12",
+    "type": "Exam Hall / Classroom",
+    "block": "EEE Department Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor above EEE Department"
+  },
+  {
+    "name": "MELH 13",
+    "type": "Exam Hall / Classroom",
+    "block": "EEE Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above EEE Department"
+  },
+  {
+    "name": "MELH 14",
+    "type": "Exam Hall / Classroom",
+    "block": "EEE Department Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor above EEE Department"
+  },
+  {
+    "name": "Seminar Hall-II",
+    "type": "Seminar Hall",
+    "block": "Library",
+    "floor": "Ground Floor",
+    "location_detail": "Ground floor - Library"
+  },
+  {
+    "name": "Lab 08",
+    "type": "Laboratory",
+    "block": "Mechanical Department Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor above Mechanical Department"
+  },
+  {
+    "name": "Lab 14",
+    "type": "Laboratory",
+    "block": "Agri Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above AGRI Department"
+  },
+  {
+    "name": "Lab 15",
+    "type": "Laboratory",
+    "block": "Agri Department Block",
+    "floor": "3rd Floor",
+    "location_detail": "3rd floor above AGRI Department"
+  },
+  {
+    "name": "1A I",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "1A II",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "1B I",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "1B II",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "1B III",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "1C I",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "1C II",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "1C III",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "1st Floor",
+    "location_detail": "1st floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2A I",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2A II",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2B I",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2B II",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2B III",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2C I",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2C II",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  },
+  {
+    "name": "2C III",
+    "type": "Classroom",
+    "block": "Tech Park - New Block",
+    "floor": "2nd Floor",
+    "location_detail": "2nd floor (Tech Park) - New Block"
+  }
+]

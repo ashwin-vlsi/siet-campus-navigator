@@ -1,0 +1,14 @@
+let rooms = [];
+
+const input = document.getElementById("roomSearch");
+const suggestions = document.getElementById("suggestions");
+const result = document.getElementById("result");
+
+fetch("rooms.json").then(r => r.json()).then(data => { rooms = data; input.placeholder = `Try "LH 34A", "LH 50" or "2B II"`; }).catch(() => { suggestions.innerHTML = "<p>Could not load campus data. Check that rooms.json is uploaded.</p>"; });
+function normalise(v){return v.trim().toLowerCase().replace(/\s+/g," ");}
+function findRoom(q){q=normalise(q);return rooms.find(r=>normalise(r.name)===q)||rooms.find(r=>normalise(r.name).includes(q))||rooms.find(r=>`${r.name} ${r.block} ${r.floor} ${r.location_detail}`.toLowerCase().includes(q));}
+function routeFor(r){return `${r.block} → ${r.floor}`;}
+function stepsFor(r){return [`Go to the ${r.block}.`,`Proceed to the ${r.floor}.`,`Find ${r.name}. Location: ${r.location_detail}.`];}
+function showSuggestions(){const q=normalise(input.value);if(!q){suggestions.innerHTML="";return;}const m=rooms.filter(r=>`${r.name} ${r.type} ${r.block} ${r.floor} ${r.location_detail}`.toLowerCase().includes(q)).slice(0,8);suggestions.innerHTML=m.length?m.map(r=>`<button type="button" data-name="${r.name}">📍 ${r.name} — ${r.block}, ${r.floor}</button>`).join(""):`<p>No matching room found.</p>`;suggestions.querySelectorAll("button").forEach(b=>b.onclick=()=>{input.value=b.dataset.name;suggestions.innerHTML="";navigate();});}
+function navigate(){const r=findRoom(input.value);if(!r){alert("Room not found. Try LH 01, LH 34A, LH 50, MELH 12, Lab 08 or 2B II.");return;}const s=stepsFor(r);document.getElementById("resultName").textContent=r.name;document.getElementById("resultType").textContent=r.type;document.getElementById("resultBlock").textContent=r.block;document.getElementById("resultFloor").textContent=r.floor;document.getElementById("resultRoute").textContent=routeFor(r);document.getElementById("step1").textContent=s[0];document.getElementById("step2").textContent=s[1];document.getElementById("step3").textContent=s[2];document.getElementById("floorTitle").textContent=`${r.block} • ${r.floor}`;const same=rooms.filter(x=>x.block===r.block&&x.floor===r.floor);document.getElementById("mapCanvas").innerHTML=`<div class="verified-note">Verified location data from the SIET Exam Hall Location sheet.</div>`+same.map(x=>`<div class="map-room ${x.name===r.name?"target":""}">${x.name}</div>`).join("");result.classList.remove("hidden");result.scrollIntoView({behavior:"smooth",block:"start"});}
+input.addEventListener("input",showSuggestions);input.addEventListener("keydown",e=>{if(e.key==="Enter")navigate();});document.getElementById("searchBtn").onclick=navigate;document.getElementById("clearBtn").onclick=()=>{result.classList.add("hidden");input.value="";suggestions.innerHTML="";};
